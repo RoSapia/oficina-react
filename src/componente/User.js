@@ -5,6 +5,6 @@ const User = ({ name, description}) => {
         <p>{description}</p>
         </div>
     );
-}
+    }
 
-export default User;
+export default User; 
